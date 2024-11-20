@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab4.ip_user_files/bd/design_1/sim/design_1.v" \
+
+sv xil_defaultlib  \
+"../../../../lab4.srcs/sources_1/new/DFF.sv" \
+"../../../../lab4.srcs/sources_1/new/DLatch.sv" \
+"../../../../lab4.srcs/sources_1/new/multiplier.sv" \
+"../../../../lab4.srcs/sources_1/new/sev_seg_controller.sv" \
+"../../../../lab4.srcs/sources_1/new/sev_seg_top.sv" \
+"../../../../lab4.srcs/sources_1/new/seven_seg_decoder.sv" \
+"../../../../lab4.srcs/sources_1/new/tb_DFF.sv" \
+"../../../../lab4.srcs/sources_1/new/tb_DLatch.sv" \
+"../../../../lab4.srcs/sources_1/new/tb_multiplier.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

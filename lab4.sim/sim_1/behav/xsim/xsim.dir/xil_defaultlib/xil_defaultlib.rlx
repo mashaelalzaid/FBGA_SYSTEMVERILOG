@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/lab4/lab4.ip_user_files/bd/design_1/sim/design_1.v,1731931051,verilog,,,,design_1,,,,,,,,
+/home/it/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/ClockDevider.sv,1732010122,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/counter_4bit.sv,,ClockDevider,,,,,,,,
+,,,,,,CounterTop,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/DFF.sv,1731854248,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/DLatch.sv,,DFF,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/DLatch.sv,1731921679,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/tb_DFF.sv,,DLatch,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/counter_4bit.sv,1732019212,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/tb_counter_4bit.sv,,counter_4bit,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/multiplier.sv,1731930494,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/tb_multiplier.sv,,multiplier,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/sev_seg.sv,1732013848,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/ClockDevider.sv,,sev_seg,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/sev_seg_controller.sv,1731926511,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/seven_seg_decoder.sv,,sev_seg_controller,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/sev_seg_top.sv,1731926551,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/seven_seg_decoder.sv,,sev_seg_top,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/seven_seg_decoder.sv,1731926462,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/DFF.sv,,seven_seg_decoder,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/sevseg.sv,1731940059,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/top_multiplier.sv,,sevseg,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/tb_DFF.sv,1731854361,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/tb_DLatch.sv,,tb_DFF,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/tb_DLatch.sv,1731851382,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/tb_multiplier.sv,,tb_DLatch,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/tb_counter_4bit.sv,1732011318,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/CounterTop.sv,,tb_counter_4bit,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/tb_multiplier.sv,1731931030,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/sevseg.sv,,multiplier_tb,,,,,,,,
+/home/it/lab4/lab4.srcs/sources_1/new/top_multiplier.sv,1732005089,systemVerilog,,/home/it/lab4/lab4.srcs/sources_1/new/sev_seg.sv,,top_multiplier,,,,,,,,

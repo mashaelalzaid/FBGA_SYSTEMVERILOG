@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov 19 14:11:12 2024
+# Process ID: 84911
+# Current directory: /home/it/lab4/lab4.runs/impl_1
+# Command line: vivado -log CounterTop.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CounterTop.tcl -notrace
+# Log file: /home/it/lab4/lab4.runs/impl_1/CounterTop.vdi
+# Journal file: /home/it/lab4/lab4.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source CounterTop.tcl -notrace
